@@ -1,6 +1,8 @@
 # Portfolio
 
-My name is Edgar Feliz. This is my Data Portfolio
+My name is Edgar Feliz.
+
+Welcome to my portfolio! Here, you'll find projects that demonstrate my skills in data analysis, data visualization, machine learning, and more.
 
 💬 Connect With Me
 
